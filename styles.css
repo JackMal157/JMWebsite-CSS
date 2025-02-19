@@ -3,21 +3,22 @@ body {
 }
 
 .Title {
-  color: blue; 
-  padding-left: 200 px;
-  top: 10 px;
+  color: blue;
+  padding-left: 200px;
+  position: relative; 
+  top: 10px;
 }
 
 .nba {
-  font-family: san-serif;
+  font-family: sans-serif;
 }
 
 .box {
-  height: 100 px;
-  width: 100 px
-  padding: 20 px;
-  margin: 50 px;
-  border: 10 px solid green;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  margin: 50px;
+  border: 10px solid green;
 }
 
 
