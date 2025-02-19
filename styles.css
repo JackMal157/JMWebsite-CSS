@@ -1,16 +1,35 @@
 body {
-  background: grey;
+  background: #DB7D7D;
 }
 
+h2 {
+  font-family: "Shantell Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+  "BNCE" 0,
+  "INFM" 0,
+  "SPAC" 0;
+   color: white;
+}
+  
 .Title {
-  color: blue;
+  color: white;
+  font-family: Georgia;
   padding-left: 200px;
   position: relative; 
   top: 10px;
 }
 
 .nba {
+  font-family: san-serif;
+  color: white;
+}
+
+p {
   font-family: sans-serif;
+  color: white;
 }
 
 .box {
@@ -18,7 +37,7 @@ body {
   width: 100px;
   padding: 20px;
   margin: 50px;
-  border: 10px solid green;
+  border: 10px solid black;
 }
 
 
