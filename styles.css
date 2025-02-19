@@ -4,11 +4,20 @@ body {
 
 .Title {
   color: blue; 
-  padding-left: 200;
-  top: 10;
+  padding-left: 200 px;
+  top: 10 px;
 }
 
 .nba {
   font-family: san-serif;
 }
+
+.box {
+  height: 100 px;
+  width: 100 px
+  padding: 20 px;
+  margin: 50 px;
+  border: 10 px solid green;
+}
+
 
