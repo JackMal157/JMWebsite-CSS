@@ -1,1 +1,14 @@
+body {
+  background: grey;
+}
+
+.Title {
+  color: blue; 
+  padding-left: 200;
+  top: 10;
+}
+
+.nba {
+  font-family: san-serif;
+}
 
